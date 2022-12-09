@@ -1,0 +1,14 @@
+.main{
+  min-height: 89.4vh;
+}
+.card{
+  width: 18%;
+  margin-bottom: 1rem;
+}
+.textd{
+  font-size: 40px;
+  position: absolute;
+  bottom: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
